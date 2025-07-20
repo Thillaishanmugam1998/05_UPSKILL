@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Variables and Data Types", "1. Variables and Data Types", "{4E0F219F-E1C2-4EF0-83BD-6FF5255EE9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables and Data Types", "Variables and Data Types\Variables and Data Types.csproj", "{5E93E35E-D814-430F-81B2-2B994928CB1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Basic Operators", "2. Basic Operators", "{118D2C33-0DDB-4502-900B-9F7A66A6CAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Operators", "Basic Operators\Basic Operators.csproj", "{95413664-2F98-42C9-8378-6097DA0F08D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Console Input-Output", "3. Console Input-Output", "{8C5C2A8F-AF11-4C4C-B26C-23635A7A41A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Input-Output", "Console Input-Output\Console Input-Output.csproj", "{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Comments and Code Documentation", "4. Comments and Code Documentation", "{465F3512-AA7E-4BC1-86B4-3A13FE6028E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments and Code Documentation", "Comments and Code Documentation\Comments and Code Documentation.csproj", "{75FB2363-FC3A-4824-81B7-30FD5BB11003}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Basic String Operations", "5.Basic String Operations", "{4FB3AE16-B3AE-46AC-AEE0-0AE6F9FA560F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic String Operations", "Basic String Operations\Basic String Operations.csproj", "{D9636118-674D-4149-9028-971EAB2947EC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Type Conversion and Casting", "6. Type Conversion and Casting", "{A52352F5-EA06-47F5-B125-1B937D65E3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Type Conversion and Casting", "Type Conversion and Casting\Type Conversion and Casting.csproj", "{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Constants and Literals", "7. Constants and Literals", "{A007FBA7-04A4-4563-A2C1-3119DB0F251B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constants and Literals", "Constants and Literals\Constants and Literals.csproj", "{2D258226-2942-4C12-A000-5C1AAC074347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E93E35E-D814-430F-81B2-2B994928CB1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E93E35E-D814-430F-81B2-2B994928CB1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E93E35E-D814-430F-81B2-2B994928CB1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E93E35E-D814-430F-81B2-2B994928CB1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95413664-2F98-42C9-8378-6097DA0F08D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95413664-2F98-42C9-8378-6097DA0F08D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95413664-2F98-42C9-8378-6097DA0F08D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95413664-2F98-42C9-8378-6097DA0F08D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FB2363-FC3A-4824-81B7-30FD5BB11003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FB2363-FC3A-4824-81B7-30FD5BB11003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FB2363-FC3A-4824-81B7-30FD5BB11003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FB2363-FC3A-4824-81B7-30FD5BB11003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9636118-674D-4149-9028-971EAB2947EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9636118-674D-4149-9028-971EAB2947EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9636118-674D-4149-9028-971EAB2947EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9636118-674D-4149-9028-971EAB2947EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D258226-2942-4C12-A000-5C1AAC074347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D258226-2942-4C12-A000-5C1AAC074347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D258226-2942-4C12-A000-5C1AAC074347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D258226-2942-4C12-A000-5C1AAC074347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E93E35E-D814-430F-81B2-2B994928CB1D} = {4E0F219F-E1C2-4EF0-83BD-6FF5255EE9CD}
+		{95413664-2F98-42C9-8378-6097DA0F08D1} = {118D2C33-0DDB-4502-900B-9F7A66A6CAFF}
+		{A6F79B3C-B5AE-4F96-BEB1-C4EFF5E960B5} = {8C5C2A8F-AF11-4C4C-B26C-23635A7A41A7}
+		{75FB2363-FC3A-4824-81B7-30FD5BB11003} = {465F3512-AA7E-4BC1-86B4-3A13FE6028E5}
+		{D9636118-674D-4149-9028-971EAB2947EC} = {4FB3AE16-B3AE-46AC-AEE0-0AE6F9FA560F}
+		{EF53557A-9F95-41A6-A40D-6ADFB3D35D9C} = {A52352F5-EA06-47F5-B125-1B937D65E3CC}
+		{2D258226-2942-4C12-A000-5C1AAC074347} = {A007FBA7-04A4-4563-A2C1-3119DB0F251B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A44DFD3-36DA-41C0-A9C0-039D411439E0}
+	EndGlobalSection
+EndGlobal

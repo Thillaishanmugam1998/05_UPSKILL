@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Gutrbo/pnBLSwn4HOUwN+aHCPbUSiuTuty8yZGshRPRo2gXdwaSV18zFatauolrKGhoEo0NcDaJuTVX5f6RQw==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\1_ Foundation Level\\Comments and Code Documentation\\Comments and Code Documentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

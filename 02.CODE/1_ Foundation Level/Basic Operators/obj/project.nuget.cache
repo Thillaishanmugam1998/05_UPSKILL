@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "034fomgY1XbKBV7fwW+HWsJ07sONOio5pcFbHeWefezOnc+Ocze5T6tQc9q7VCK/SN5AAcyKVj+H4YrSdusGlA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\1_ Foundation Level\\Basic Operators\\Basic Operators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

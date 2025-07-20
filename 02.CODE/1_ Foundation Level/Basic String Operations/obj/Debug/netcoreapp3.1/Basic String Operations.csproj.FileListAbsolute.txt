@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\bin\Debug\netcoreapp3.1\Basic String Operations.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.genruntimeconfig.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Basic String Operations\obj\Debug\netcoreapp3.1\Basic String Operations.csproj.AssemblyReference.cache
