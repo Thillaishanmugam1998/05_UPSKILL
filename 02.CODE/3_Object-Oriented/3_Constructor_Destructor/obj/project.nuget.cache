@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrgaTNxpWmJ9Cu9t8cnCPlqS2TElD2tesjz7ZxAXmsvWs6x5gE2D3uq0I1tGEeMVnNAJFUFBs3LvaWEnnWspQA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\3_Object-Oriented\\3_Constructor_Destructor\\3_Constructor_Destructor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

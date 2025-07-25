@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OWlgpCSP5thRvb7r8MPeO2o8FljyAhZbGF69+CcWliJWu0rJL0bEIWezvyX+8MvPm4iMWoztYEVNKRiac2xmhg==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\3_Object-Oriented\\2_FieldsPropertiesMethodsDemo\\2_FieldsPropertiesMethodsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

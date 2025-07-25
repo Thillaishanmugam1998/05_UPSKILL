@@ -1,0 +1,11 @@
+﻿Access Modifiers
+Access modifiers control the visibility and accessibility of classes, methods, fields, and other members in your code. 
+They are fundamental to implementing encapsulation and maintaining proper code structure.
+private: Members are accessible only within the same class. This is the default access level for class members and provides 
+the highest level of encapsulation.
+public: Members are accessible from anywhere in the program. 
+Use this for members that need to be accessed by external code.
+protected: Members are accessible within the same class and by derived classes (inheritance). 
+This allows controlled access in inheritance hierarchies.
+internal: Members are accessible within the same assembly (project). 
+This is useful for creating APIs that are public within your project but not exposed to external assemblies.

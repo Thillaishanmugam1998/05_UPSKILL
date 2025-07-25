@@ -1,0 +1,8 @@
+﻿Encapsulation Principles
+Encapsulation is one of the fundamental principles of object-oriented programming. It involves bundling data (fields) and 
+methods that operate on that data within a single unit (class) while restricting direct access to some of the object's 
+components.
+This is achieved through access modifiers and well-designed public interfaces.
+The key benefits of encapsulation include data hiding, improved maintainability, better code organization, 
+and the ability to control how data is accessed and modified. Properties provide a clean way to implement encapsulation by 
+allowing controlled access to private fields.

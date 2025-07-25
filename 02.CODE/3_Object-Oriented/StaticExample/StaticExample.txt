@@ -1,0 +1,6 @@
+﻿Static Members and Static Classes
+Static members belong to the type itself rather than to any specific instance. 
+They are shared across all instances of the class and can be accessed without creating an object. 
+Static classes cannot be instantiated and can only contain static members.
+Static members are useful for utility functions, constants, and shared data that doesn't depend on instance state. 
+They're loaded when the type is first referenced and remain in memory for the lifetime of the application.

@@ -1,0 +1,6 @@
+﻿Namespaces and Using Statements
+Namespaces provide a way to organize code and avoid naming conflicts by grouping related classes, interfaces, and other types. 
+They create a hierarchical structure that helps manage large codebases. Using statements allow you to reference types 
+from other namespaces without fully qualifying their names.
+Namespaces are essential for creating maintainable applications, especially when working with multiple libraries or 
+large projects where naming conflicts might occur.

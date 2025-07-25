@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNuIrhVORBmlnZH6lrK3k6TjzjwzGi/92E6heVZSSvXQvl6ZdVTrHTxwJJ5khQF+c/p+ynEz/tNwZf0C4JfNww==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\3_Object-Oriented\\6.NameSpace\\6.NameSpace.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
