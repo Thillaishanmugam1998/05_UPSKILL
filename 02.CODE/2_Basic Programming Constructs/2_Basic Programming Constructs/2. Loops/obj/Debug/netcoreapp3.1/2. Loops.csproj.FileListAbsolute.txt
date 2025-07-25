@@ -1,0 +1,13 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\bin\Debug\netcoreapp3.1\2. Loops.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\2. Loops\obj\Debug\netcoreapp3.1\2. Loops.genruntimeconfig.cache

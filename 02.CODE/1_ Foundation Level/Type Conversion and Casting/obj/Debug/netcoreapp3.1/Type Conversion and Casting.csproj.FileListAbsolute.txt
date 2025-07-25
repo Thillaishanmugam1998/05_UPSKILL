@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\bin\Debug\netcoreapp3.1\Type Conversion and Casting.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\1_ Foundation Level\Type Conversion and Casting\obj\Debug\netcoreapp3.1\Type Conversion and Casting.genruntimeconfig.cache

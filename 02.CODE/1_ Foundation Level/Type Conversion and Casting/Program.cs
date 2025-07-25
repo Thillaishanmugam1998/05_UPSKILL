@@ -6,10 +6,11 @@ class TypeConversionAndCasting
     {
         Console.WriteLine("=== Type Conversion and Casting ===");
 
+
         // Implicit conversion (widening)
         Console.WriteLine("=== Implicit Conversion ===");
         int intValue = 100;
-        long longValue = intValue;     // int to long (safe)
+        long longValue = intValue;     // int to long (safe) 
         float floatValue = intValue;   // int to float (safe)
         double doubleValue = floatValue; // float to double (safe)
 
@@ -71,7 +72,7 @@ class TypeConversionAndCasting
         int convertedInt = Convert.ToInt32(convertString);
         string convertedString = Convert.ToString(convertDouble);
         int convertedFromBool = Convert.ToInt32(convertBool); // true = 1, false = 0
-
+        
         Console.WriteLine($"Convert string to int: {convertedInt}");
         Console.WriteLine($"Convert double to string: '{convertedString}'");
         Console.WriteLine($"Convert bool to int: {convertedFromBool}");
@@ -97,3 +98,4 @@ class TypeConversionAndCasting
         Console.WriteLine($"Character '{digitChar}' numeric value: {numericValue}");
     }
 }
+

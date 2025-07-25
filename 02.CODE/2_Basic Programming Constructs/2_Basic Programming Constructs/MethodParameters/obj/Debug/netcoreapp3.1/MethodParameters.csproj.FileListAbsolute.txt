@@ -1,0 +1,10 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\bin\Debug\netcoreapp3.1\MethodParameters.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\bin\Debug\netcoreapp3.1\MethodParameters.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\bin\Debug\netcoreapp3.1\MethodParameters.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\MethodParameters\obj\Debug\netcoreapp3.1\MethodParameters.pdb

@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\bin\Debug\netcoreapp3.1\Function Examples.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.genruntimeconfig.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Function Examples\obj\Debug\netcoreapp3.1\Function Examples.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\bin\Debug\netcoreapp3.1\Conditional Statements.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Conditional Statements\obj\Debug\netcoreapp3.1\Conditional Statements.genruntimeconfig.cache

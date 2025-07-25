@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZYoCMa45P1NNU33cU0Gby9mRHao4HiIXGYiMaLGy1aOzJwfpT3AkRjLSRn199roCMurvM1peuoJT6aLQLmW06w==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\2_Basic Programming Constructs\\2_Basic Programming Constructs\\2. Loops\\2. Loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

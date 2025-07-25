@@ -1,0 +1,13 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\bin\Debug\netcoreapp3.1\MethodParameters.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\2_Basic Programming Constructs\2_Basic Programming Constructs\Methodparam\obj\Debug\netcoreapp3.1\MethodParameters.genruntimeconfig.cache
