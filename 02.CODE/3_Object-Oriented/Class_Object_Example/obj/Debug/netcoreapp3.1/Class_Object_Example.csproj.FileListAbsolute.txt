@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\bin\Debug\netcoreapp3.1\Class_Object_Example.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\Class_Object_Example\obj\Debug\netcoreapp3.1\Class_Object_Example.genruntimeconfig.cache
