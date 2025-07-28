@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kF6HdIf0D4VCUCxWAWVbf8MDmOBCLb3G+WDWwBsBvDbqccgz5yr5Vv8oqNjcvdfzAIrxMAOhJLpfRd9B425jgA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\4_ntermediate OOP Concepts\\4.Interfaces\\4.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

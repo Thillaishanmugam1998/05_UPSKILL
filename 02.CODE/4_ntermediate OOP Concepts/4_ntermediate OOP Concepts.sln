@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Inheritance and base classes", "1. Inheritance and base classes", "{385F6D69-6183-494A-AF6C-076CCB59ECF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Inheritance and base classes", "1. Inheritance and base classes\1. Inheritance and base classes.csproj", "{8B4E1831-C58F-43C6-8102-2E446CF78C23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Method Overriding", "2.Method Overriding", "{6E4EAD1F-E333-47A6-B215-5208783A2003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method Overriding\Method Overriding.csproj", "{7A96D386-9BD5-43D2-85EA-251D81D564DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Abstract Classes and Abstract Methods", "3.Abstract Classes and Abstract Methods", "{36E0E69C-5CC8-47AE-A4B7-EDC94A05D6E9}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Abstract Classes and Abstract Methods", "3.Abstract Classes and Abstract Methods\3.Abstract Classes and Abstract Methods.csproj", "{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Interfaces", "4.Interfaces", "{C1890195-2617-4CA7-A19E-D9FE163BEB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Interfaces", "4.Interfaces\4.Interfaces.csproj", "{A3AD808E-0481-4D03-B847-9629E2B2E92D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Polymorphism", "5.Polymorphism", "{35237E4B-BA85-411F-8B70-9ABC170DC6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A57FFD2C-160E-4D2F-99E3-E330101CA590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4E1831-C58F-43C6-8102-2E446CF78C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4E1831-C58F-43C6-8102-2E446CF78C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4E1831-C58F-43C6-8102-2E446CF78C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4E1831-C58F-43C6-8102-2E446CF78C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A96D386-9BD5-43D2-85EA-251D81D564DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A96D386-9BD5-43D2-85EA-251D81D564DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A96D386-9BD5-43D2-85EA-251D81D564DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A96D386-9BD5-43D2-85EA-251D81D564DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AD808E-0481-4D03-B847-9629E2B2E92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AD808E-0481-4D03-B847-9629E2B2E92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AD808E-0481-4D03-B847-9629E2B2E92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AD808E-0481-4D03-B847-9629E2B2E92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8B4E1831-C58F-43C6-8102-2E446CF78C23} = {385F6D69-6183-494A-AF6C-076CCB59ECF3}
+		{7A96D386-9BD5-43D2-85EA-251D81D564DF} = {6E4EAD1F-E333-47A6-B215-5208783A2003}
+		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594} = {36E0E69C-5CC8-47AE-A4B7-EDC94A05D6E9}
+		{A3AD808E-0481-4D03-B847-9629E2B2E92D} = {C1890195-2617-4CA7-A19E-D9FE163BEB53}
+		{A57FFD2C-160E-4D2F-99E3-E330101CA590} = {35237E4B-BA85-411F-8B70-9ABC170DC6C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6923BE25-8A5D-4B48-8759-26075C861031}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bal711evU87XfZiuuuClPtBEVsRGrGnFSIjKFR1ogcbk/V+cyJPQegBctsAtccX2ntMsFYGNakgLrG6y8LcjeQ==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\4_ntermediate OOP Concepts\\1. Inheritance and base classes\\1. Inheritance and base classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

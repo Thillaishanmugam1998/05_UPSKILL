@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDuRGHaJOkmhN3n/TYWkpRCMRJFpYwhGCfQTMybNLQuh8hNqlRZo9i5nl2tbUs70tE5iBAvLNwBNZ/MHCC6TBQ==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\4_ntermediate OOP Concepts\\Polymorphism\\Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

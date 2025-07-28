@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eSRMKfccUOTydcoeVfjAo+erWC1HAwQfByhuT2MWOqXT22t/xM0J+hwdXcSN2wxIcLq1Xv153mnExoX1zU6v2g==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\4_ntermediate OOP Concepts\\3.Abstract Classes and Abstract Methods\\3.Abstract Classes and Abstract Methods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
