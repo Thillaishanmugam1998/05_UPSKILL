@@ -143,11 +143,11 @@ public class Person
     }
 
     // Constructor chaining using 'this' keyword
-    public Person(string firstName, string lastName, int age, string email)
-        : this(firstName, lastName, DateTime.Now.AddYears(-age), email)
+    public Person(string firstName, string lastName, int age, string email) : this(firstName, lastName, DateTime.Now.AddYears(-age), email)
     {
         Console.WriteLine("Constructor chaining completed");
     }
+
 
     // Methods
     public void DisplayInfo()

@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\bin\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\3_Object-Oriented\2_FieldsPropertiesMethodsDemo\obj\Debug\netcoreapp3.1\2_FieldsPropertiesMethodsDemo.genruntimeconfig.cache
