@@ -6,6 +6,7 @@ namespace EncapsulationDemo
 {
     // Well-encapsulated class demonstrating proper data hiding
     public class BankAccount
+
     {
         // Private fields - hidden from outside access
         private string accountNumber;
