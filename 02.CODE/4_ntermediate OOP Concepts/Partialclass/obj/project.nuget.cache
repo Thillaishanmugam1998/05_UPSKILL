@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+i/+vlxlBKyTArF4rFDR5BYOD+GLZULu/znBdGEdTc4UvZAnlxJ7wNzDQMG6eEvCztrnQqR/OeLg2719nPCIfg==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\4_ntermediate OOP Concepts\\Partialclass\\Partialclass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

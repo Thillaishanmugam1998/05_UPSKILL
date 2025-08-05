@@ -5,26 +5,34 @@ VisualStudioVersion = 16.0.35931.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Inheritance and base classes", "1. Inheritance and base classes", "{385F6D69-6183-494A-AF6C-076CCB59ECF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Inheritance and base classes", "1. Inheritance and base classes\1. Inheritance and base classes.csproj", "{8B4E1831-C58F-43C6-8102-2E446CF78C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Inheritance and base classes", "1. Inheritance and base classes\1. Inheritance and base classes.csproj", "{8B4E1831-C58F-43C6-8102-2E446CF78C23}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Method Overriding", "2.Method Overriding", "{6E4EAD1F-E333-47A6-B215-5208783A2003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overriding", "Method Overriding\Method Overriding.csproj", "{7A96D386-9BD5-43D2-85EA-251D81D564DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method Overriding", "Method Overriding\Method Overriding.csproj", "{7A96D386-9BD5-43D2-85EA-251D81D564DF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Abstract Classes and Abstract Methods", "3.Abstract Classes and Abstract Methods", "{36E0E69C-5CC8-47AE-A4B7-EDC94A05D6E9}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Abstract Classes and Abstract Methods", "3.Abstract Classes and Abstract Methods\3.Abstract Classes and Abstract Methods.csproj", "{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Abstract Classes and Abstract Methods", "3.Abstract Classes and Abstract Methods\3.Abstract Classes and Abstract Methods.csproj", "{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Interfaces", "4.Interfaces", "{C1890195-2617-4CA7-A19E-D9FE163BEB53}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Interfaces", "4.Interfaces\4.Interfaces.csproj", "{A3AD808E-0481-4D03-B847-9629E2B2E92D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Interfaces", "4.Interfaces\4.Interfaces.csproj", "{A3AD808E-0481-4D03-B847-9629E2B2E92D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Polymorphism", "5.Polymorphism", "{35237E4B-BA85-411F-8B70-9ABC170DC6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A57FFD2C-160E-4D2F-99E3-E330101CA590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{A57FFD2C-160E-4D2F-99E3-E330101CA590}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.SealedClass", "6.SealedClass", "{A41E68BB-8DE0-4D18-BBC3-86A25EA60DF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.PartialClass", "7.PartialClass", "{1A56BCBE-706F-4D75-B27F-6D77C9038C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClass", "SealedClass\SealedClass.csproj", "{342096B4-C353-4839-A4EA-D3AEB767C895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partialclass", "Partialclass\Partialclass.csproj", "{3E96088D-242D-4717-A2D3-62DDCBEC7DB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -52,6 +60,14 @@ Global
 		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A57FFD2C-160E-4D2F-99E3-E330101CA590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{342096B4-C353-4839-A4EA-D3AEB767C895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342096B4-C353-4839-A4EA-D3AEB767C895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342096B4-C353-4839-A4EA-D3AEB767C895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342096B4-C353-4839-A4EA-D3AEB767C895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E96088D-242D-4717-A2D3-62DDCBEC7DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E96088D-242D-4717-A2D3-62DDCBEC7DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E96088D-242D-4717-A2D3-62DDCBEC7DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E96088D-242D-4717-A2D3-62DDCBEC7DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +78,8 @@ Global
 		{4A54A1CA-35E1-4AB2-93DA-7E4C3C500594} = {36E0E69C-5CC8-47AE-A4B7-EDC94A05D6E9}
 		{A3AD808E-0481-4D03-B847-9629E2B2E92D} = {C1890195-2617-4CA7-A19E-D9FE163BEB53}
 		{A57FFD2C-160E-4D2F-99E3-E330101CA590} = {35237E4B-BA85-411F-8B70-9ABC170DC6C3}
+		{342096B4-C353-4839-A4EA-D3AEB767C895} = {A41E68BB-8DE0-4D18-BBC3-86A25EA60DF7}
+		{3E96088D-242D-4717-A2D3-62DDCBEC7DB8} = {1A56BCBE-706F-4D75-B27F-6D77C9038C2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6923BE25-8A5D-4B48-8759-26075C861031}
