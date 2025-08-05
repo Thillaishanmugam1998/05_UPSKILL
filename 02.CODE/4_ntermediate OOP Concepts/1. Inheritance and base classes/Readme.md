@@ -1,6 +1,8 @@
 ﻿🎯 Topic 1 Complete: Inheritance and Base Classes
 Key Concepts You Just Learned:
-Inheritance allows you to create new classes based on existing classes. The new class (derived/child) inherits all the members of the base class (parent) and can add its own specific features.
+Inheritance allows you to create new classes based on existing classes. 
+The new class (derived/child) inherits all the members of the base class (parent) and can add its own specific features.
+
 Important Points:
 
 Use : syntax for inheritance (class Car : Vehicle)

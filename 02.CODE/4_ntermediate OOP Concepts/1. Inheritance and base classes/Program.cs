@@ -65,6 +65,7 @@ public class Car : Vehicle
     // Must call base class constructor using 'base' keyword
     public Car(string brand, int year, int doors) : base(brand, year)
     {
+       
         this.numberOfDoors = doors;
         Console.WriteLine($"Car constructor called - added {doors} doors");
     }
@@ -83,7 +84,7 @@ public class Car : Vehicle
     }
 }
 
-// Another derived class to show inheritance flexibility
+// Another derived class to show inheritance flexibility 
 public class Motorcycle : Vehicle
 {
     private bool hasSidecar;
@@ -149,7 +150,7 @@ public class InheritanceDemo
         Vehicle someVehicle = new Car("BMW", 2023, 2);  // Car IS-A Vehicle
         someVehicle.Start();        // Can call Vehicle methods
         someVehicle.DisplayInfo();  // Can call Vehicle methods
-        // someVehicle.OpenTrunk();  // ERROR! Vehicle doesn't know about Car-specific methods
+        //someVehicle.OpenTrunk();  // ERROR! Vehicle doesn't know about Car-specific methods
     }
 }
 

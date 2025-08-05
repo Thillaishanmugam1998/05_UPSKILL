@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\bin\Debug\netcoreapp3.1\1. Inheritance and base classes.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\4_ntermediate OOP Concepts\1. Inheritance and base classes\obj\Debug\netcoreapp3.1\1. Inheritance and base classes.genruntimeconfig.cache

@@ -1,6 +1,8 @@
 ﻿🎯 Topic 2 Complete: Method Overriding (virtual, override)
 Key Concepts You Just Learned:
-Method Overriding allows derived classes to provide their own implementation of base class methods while maintaining the same method signature (name, parameters, return type).
+Method Overriding allows derived classes to provide their own implementation of base class methods 
+while maintaining the same method signature (name, parameters, return type).
+
 Critical Keywords:
 
 virtual in base class = "This method CAN be overridden"
