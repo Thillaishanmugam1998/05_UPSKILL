@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xFpzwUjWfokuJi5cjNKP/00svGmn3sgCDlG5n8I9hh8BdfysmpGaXOGkHTHGtzb99DbAv4ZazMSSk5OP91M8HQ==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\02.CODE\\5_Collections and Generics\\Collections and Generics\\Topic 1_Generic Collections - List\\Topic 1_Generic Collections - List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
