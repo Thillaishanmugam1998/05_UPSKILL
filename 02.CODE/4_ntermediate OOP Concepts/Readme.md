@@ -1,6 +1,7 @@
 ﻿🎯 Topic 3 Complete: Abstract Classes and Abstract Methods
 Key Concepts You Just Learned:
-Abstract Classes are classes that cannot be instantiated directly but serve as blueprints for derived classes. They can contain both concrete (implemented) and abstract (unimplemented) methods.
+Abstract Classes are classes that cannot be instantiated directly but serve as blueprints for derived classes. 
+They can contain both concrete (implemented) and abstract (unimplemented) methods.
 Critical Rules:
 
 abstract class = Cannot create instances with new

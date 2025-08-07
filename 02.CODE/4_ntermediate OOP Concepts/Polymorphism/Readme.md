@@ -1,6 +1,7 @@
 ﻿🎯 Topic 5 Complete: Polymorphism
 Key Concepts You Just Learned:
-Polymorphism (Greek: "many forms") is the ability for objects of different types to be treated as instances of the same base type, 
+Polymorphism (Greek: "many forms") is the ability for objects of different types to be treated as instances of 
+the same base type, 
 while each object maintains its own specific behavior.
 Types of Polymorphism in C#:
 

@@ -440,7 +440,7 @@ public class InterfaceDemo
         Console.WriteLine("--- Testing Car (IVehicle + IMaintainable) ---");
         myCar.Start();
         myCar.Accelerate(60);
-        myCar.DisplayInfo(); // Using default interface implementation
+        //myCar.DisplayInfo(); // Using default interface implementation
         Console.WriteLine($"Needs maintenance: {myCar.NeedsMaintenance}");
         myCar.PerformMaintenance();
         myCar.Stop();
