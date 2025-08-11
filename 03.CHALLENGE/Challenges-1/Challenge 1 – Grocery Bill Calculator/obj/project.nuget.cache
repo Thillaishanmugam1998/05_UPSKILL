@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XjzUF5aHQCkW8/enzT3aKha4fGhTbwSH5JRTyu9b0afiZkjkQOPkxyuJ4PSgFhD2HgGCEpAtc5j5D/G6O7zXwg==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\03.CHALLENGE\\Challenges-1\\Challenge 1 – Grocery Bill Calculator\\Challenge 1 – Grocery Bill Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

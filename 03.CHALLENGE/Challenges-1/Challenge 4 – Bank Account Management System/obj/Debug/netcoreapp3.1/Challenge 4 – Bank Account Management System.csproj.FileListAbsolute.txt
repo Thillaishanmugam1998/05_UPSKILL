@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.exe
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.deps.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\bin\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 4 – Bank Account Management System\obj\Debug\netcoreapp3.1\Challenge 4 – Bank Account Management System.genruntimeconfig.cache

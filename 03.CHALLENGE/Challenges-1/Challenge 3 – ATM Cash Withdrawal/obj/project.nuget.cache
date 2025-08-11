@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "akD18zcVYO4QWYzvvrnrlTN++0siP+ka1YU/Cnl1CdmEn7E7EwQh6Jq6EnBNZItaIqDaghiAJGEC5u967kxmgQ==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\03.CHALLENGE\\Challenges-1\\Challenge 3 – ATM Cash Withdrawal\\Challenge 3 – ATM Cash Withdrawal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

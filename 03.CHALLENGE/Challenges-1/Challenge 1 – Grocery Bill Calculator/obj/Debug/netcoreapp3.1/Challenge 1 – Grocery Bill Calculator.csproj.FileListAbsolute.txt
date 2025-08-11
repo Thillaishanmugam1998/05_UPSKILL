@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.exe
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.deps.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\bin\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 1 – Grocery Bill Calculator\obj\Debug\netcoreapp3.1\Challenge 1 – Grocery Bill Calculator.genruntimeconfig.cache

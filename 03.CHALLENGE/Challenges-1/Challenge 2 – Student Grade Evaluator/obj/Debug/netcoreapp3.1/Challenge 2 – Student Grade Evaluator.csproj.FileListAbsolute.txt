@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.exe
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.deps.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\bin\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 2 – Student Grade Evaluator\obj\Debug\netcoreapp3.1\Challenge 2 – Student Grade Evaluator.genruntimeconfig.cache

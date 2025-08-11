@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IRCj6KeE/6zQWLi3HrewKozx4F+JdYoHbKf8tMDdtLkpD2+JZt+GgENZaYnYRpFyQQuw5Ft1GEquOdAukul5pA==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\05_UPSKILL\\03.CHALLENGE\\Challenges-1\\Challenge 5 – Employee Payroll System\\Challenge 5 – Employee Payroll System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

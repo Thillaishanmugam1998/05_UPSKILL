@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.exe
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.deps.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\bin\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 3 – ATM Cash Withdrawal\obj\Debug\netcoreapp3.1\Challenge 3 – ATM Cash Withdrawal.genruntimeconfig.cache

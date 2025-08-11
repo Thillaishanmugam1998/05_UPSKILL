@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.exe
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.deps.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\bin\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.dll
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.pdb
+T:\02.GIT REPO\05_UPSKILL\03.CHALLENGE\Challenges-1\Challenge 5 – Employee Payroll System\obj\Debug\netcoreapp3.1\Challenge 5 – Employee Payroll System.genruntimeconfig.cache
