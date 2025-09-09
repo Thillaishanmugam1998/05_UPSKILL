@@ -120,4 +120,4 @@ Here's a comprehensive roadmap from very basic to advanced C# concepts:
 * Observer pattern
 * Command pattern
 * Strategy pattern
-make this as a pdf fil e
+
