@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\bin\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 1_Generic Collections - List\obj\Debug\netcoreapp3.1\Topic 1_Generic Collections - List.genruntimeconfig.cache
