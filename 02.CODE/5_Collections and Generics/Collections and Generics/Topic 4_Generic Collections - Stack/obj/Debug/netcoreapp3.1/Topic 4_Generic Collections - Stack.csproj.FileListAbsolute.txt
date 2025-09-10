@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\bin\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 4_Generic Collections - Stack\obj\Debug\netcoreapp3.1\Topic 4_Generic Collections - Stack.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.exe
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.deps.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.runtimeconfig.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.runtimeconfig.dev.json
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\bin\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.csproj.AssemblyReference.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.AssemblyInfoInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.AssemblyInfo.cs
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.csproj.CoreCompileInputs.cache
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.dll
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.pdb
+T:\02.GIT REPO\05_UPSKILL\02.CODE\5_Collections and Generics\Collections and Generics\Topic 2_Generic Collections - Dictionary\obj\Debug\netcoreapp3.1\Topic 2_Generic Collections - Dictionary.genruntimeconfig.cache
